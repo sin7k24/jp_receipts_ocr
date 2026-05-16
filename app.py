@@ -5,7 +5,8 @@ import uuid
 import os
 
 from ocr_engine import run_ocr
-from parser import parse_receipt
+# from parser import parse_receipt
+from parser_by_llm import parse_receipt
 
 app = FastAPI()
 
