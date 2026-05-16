@@ -1,0 +1,4 @@
+__pycache__/
+vendor/ndlocr-lite/
+tmp/
+output/
